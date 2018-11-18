@@ -1,6 +1,6 @@
     html {
-      box-sizing: border-box;
-      background: #ffc600;
+      box-sizing: v;
+      background-image: linear-gradient(to bottom right, red, yellow);
       font-family: 'helvetica neue';
       font-size: 20px;
       font-weight: 200;
